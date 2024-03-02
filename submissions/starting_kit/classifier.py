@@ -1,3 +1,1 @@
 import pandas
-
-print("ok")
