@@ -43,7 +43,7 @@ Follow the instructions in the notebook to load the dataset, perform exploratory
 ## Authors
 
 - **Barry Alpha Oumar**
-- **BenjellounYassmine**
+- **Benjelloun Yassmine**
 - **Grunenwald Paul**
 - **Elmehdi Boualam**
 - **Lejzerowicz Elia**
